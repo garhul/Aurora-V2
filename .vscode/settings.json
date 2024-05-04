@@ -1,0 +1,16 @@
+{
+  "editor.formatOnSave": true,
+  "clang-format.language.cpp.enable": false,
+  "clang-format.language.objective-cpp.enable": false,
+  "files.associations": {
+    "*.h": "cpp",
+    "array": "cpp",
+    "deque": "cpp",
+    "string": "cpp",
+    "unordered_map": "cpp",
+    "unordered_set": "cpp",
+    "vector": "cpp",
+    "string_view": "cpp",
+    "initializer_list": "cpp"
+  }
+}
